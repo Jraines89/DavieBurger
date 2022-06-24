@@ -27,7 +27,7 @@ I intend in the future to improve this project, by:
 *refining the design or add my own spin!
 
 ## Status
-Project is completed as required. [published website:] (https://mcheroajdn.github.io/DavBurger/)
+Project is completed as required. [published website:] (https://github.com/Jraines89/DavieBurger)
 
 ## Author/Contact
 * Justin R. - Initial work
