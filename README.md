@@ -1,15 +1,18 @@
-ntroduction / Requirements
+<Head>Introduction / Requirements</head>
 
-During my Full Stack Developer course with Codecademy this is a project requirement project in which I followed step-by-step instructions to fix a fictional restaurant’s website with knowledge of height, width, padding, border, and margin to complete the project.
-Technologies
-
-This project is created with:
+<div>
+    <p>During my Full Stack Developer course with Codecademy this is a project requirement project in which I followed step-by-step instructions to fix a fictional restaurant’s website with knowledge of height, width, padding, border, and margin to complete the project.
+        Technologies.</p>
+    </div>
+<div>
+    <ul>This project is created with:
 HTML
 
-    CSS
-    Github
-    Command Line
-    Visual Studio Code Editor
+        <li>CSS</li>
+        <li>Github</li>
+        <li>Command Line</li>
+        <li>Visual Studio Code Editor</li>
+    </ul>
 
 Resources
 
