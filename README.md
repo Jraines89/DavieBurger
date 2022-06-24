@@ -6,8 +6,8 @@
     </div>
 <div>
     <ul>This project is created with:
-HTML
-
+    
+       <li>HTML</li>
         <li>CSS</li>
         <li>Github</li>
         <li>Command Line</li>
