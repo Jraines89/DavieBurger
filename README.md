@@ -1,36 +1,33 @@
-<Head>Introduction / Requirements</head>
+# Davie's Burger
 
-<div>
-    <p>During my Full Stack Developer course with Codecademy this is a project requirement project in which I followed step-by-step instructions to fix a fictional restaurant’s website with knowledge of height, width, padding, border, and margin to complete the project.
-        Technologies.</p>
-    </div>
-<div>
-    <ul>This project is created with:
-    
-       <li>HTML</li>
-        <li>CSS</li>
-        <li>Github</li>
-        <li>Command Line</li>
-        <li>Visual Studio Code Editor</li>
-    </ul>
+## Introduction / Requirements
+During my Full Stack Developer course with Codecademy this is a project requirement project in which I followed step-by-step instructions to fix a fictional restaurant’s website with knowledge of height, width, padding, border, and margin to complete the project.
 
-Resources
 
+## Technologies
+This project is created with:
+
+## HTML
+* CSS
+* Github
+* Command Line
+* Visual Studio Code Editor
+
+## Resources
 With the resources available and studies from:
+* W3 School
+* MDN
+* Codecademy Tutorials
 
-    W3 School
-    MDN
-    Codecademy Tutorials
-
-Inspiration
-
+## Inspiration
 Codecademy challenge project Full Stack Engineer Career Path.
-To Do
 
-I intend in the future to improve this project, by: *refining the design or add my own spin!
-Status
+## To Do
+I intend in the future to improve this project, by:
+*refining the design or add my own spin!
 
+## Status
 Project is completed as required. [published website:] (https://mcheroajdn.github.io/DavBurger/)
-Author/Contact
 
-    M. Christopher - Initial work
+## Author/Contact
+* Justin R. - Initial work
